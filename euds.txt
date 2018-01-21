@@ -1,0 +1,438 @@
+v1.21.0
+
+Address: 0050E064-0050E068 Attributes: simple data
+Address: 005124D8-005124F4 Attributes: simple data
+Address: 00512678-0051267C Attributes: readonly
+Address: 00512684-00512688 Attributes: readonly
+Address: 00513B68-00513B99 Attributes: simple data
+Address: 00514178-005145BA Attributes: simple data
+Address: 005145C0-00514906 Attributes: simple data
+Address: 00514908-00514A46 Attributes: simple data
+Address: 00514A48-00514CF8 Attributes: simple data
+Address: 00514CF8-0051521C Attributes: simple data
+Address: 00515AF8-00515B08 Attributes: simple data
+Address: 00515B08-00515B18 Attributes: simple data
+Address: 00515B18-00515B38 Attributes: simple data
+Address: 00515B38-00515B58 Attributes: simple data
+Address: 00515B58-00515B60 Attributes: simple data
+Address: 00515B60-00515B68 Attributes: simple data
+Address: 00515B68-00515B70 Attributes: simple data
+Address: 00515B70-00515BE8 Attributes: simple data
+Address: 00515BE8-00515BEC Attributes: backed by code
+Address: 00515BE8-00515C24 Attributes: backed by code
+Address: 00515C24-00515C28 Attributes: backed by code
+Address: 00515C24-00515C60 Attributes: backed by code
+Address: 00515C60-00515C64 Attributes: backed by code
+Address: 00515C60-00515C74 Attributes: backed by code
+Address: 00515C74-00515C78 Attributes: backed by code
+Address: 00515C74-00515C88 Attributes: backed by code
+Address: 00515C88-00515C8C Attributes: backed by code
+Address: 00515C88-00515C9C Attributes: backed by code
+Address: 00515C9C-00515CA0 Attributes: backed by code
+Address: 00515C9C-00515CC4 Attributes: backed by code
+Address: 00515CC4-00515CC8 Attributes: backed by code
+Address: 00515CC4-00515CD8 Attributes: backed by code
+Address: 00515CD8-00515CDC Attributes: backed by code
+Address: 00515CD8-00515D00 Attributes: backed by code
+Address: 00515D00-00515D04 Attributes: backed by code
+Address: 00515D00-00515D14 Attributes: backed by code
+Address: 00515D14-00515D18 Attributes: backed by code
+Address: 00515D14-00515D50 Attributes: backed by code
+Address: 00515D50-00515D54 Attributes: backed by code
+Address: 00515D50-00515D64 Attributes: backed by code
+Address: 00515D64-00515D68 Attributes: simple data
+Address: 00515D68-00515D6C Attributes: backed by code
+Address: 00515D68-00515DCC Attributes: backed by code
+Address: 00515DD0-00515DD4 Attributes: backed by code
+Address: 00515DD0-00515E34 Attributes: backed by code
+Address: 00515E34-00515E38 Attributes: simple data
+Address: 00515E38-00515E3C Attributes: backed by code
+Address: 00515E38-00515E9C Attributes: backed by code
+Address: 00515EA0-00515EA4 Attributes: backed by code
+Address: 00515EA0-00515F2C Attributes: backed by code
+Address: 00515F2C-00515F30 Attributes: backed by code
+Address: 00515F2C-00515F54 Attributes: backed by code
+Address: 00515F58-00515F5C Attributes: backed by code
+Address: 00515F58-0051600C Attributes: backed by code
+Address: 0051600C-00516010 Attributes: backed by code
+Address: 0051600C-00516020 Attributes: backed by code
+Address: 00516020-00516024 Attributes: backed by code
+Address: 00516020-005160D4 Attributes: backed by code
+Address: 005160D8-005160DC Attributes: backed by code
+Address: 005160D8-00516164 Attributes: backed by code
+Address: 00516168-0051616C Attributes: backed by code
+Address: 00516168-005161E0 Attributes: backed by code
+Address: 005161E0-005161E4 Attributes: backed by code
+Address: 005161E0-0051626C Attributes: backed by code
+Address: 00516270-00516274 Attributes: backed by code
+Address: 00516270-00516310 Attributes: backed by code
+Address: 00516310-00516314 Attributes: backed by code
+Address: 00516310-0051639C Attributes: backed by code
+Address: 005163A0-005163A4 Attributes: backed by code
+Address: 005163A0-0051642C Attributes: backed by code
+Address: 00516430-00516434 Attributes: backed by code
+Address: 00516430-005164E4 Attributes: backed by code
+Address: 005164E8-005164EC Attributes: backed by code
+Address: 005164E8-0051659C Attributes: backed by code
+Address: 005165A0-005165A4 Attributes: backed by code
+Address: 005165A0-0051662C Attributes: backed by code
+Address: 00516630-00516634 Attributes: backed by code
+Address: 00516630-005166F8 Attributes: backed by code
+Address: 005166F8-005166FC Attributes: backed by code
+Address: 005166F8-005167AC Attributes: backed by code
+Address: 005167B0-005167B4 Attributes: backed by code
+Address: 005167B0-00516814 Attributes: backed by code
+Address: 00516814-00516818 Attributes: simple data
+Address: 00516818-0051681C Attributes: backed by code
+Address: 00516818-005168CC Attributes: backed by code
+Address: 005168D0-005168D4 Attributes: backed by code
+Address: 005168D0-00516970 Attributes: backed by code
+Address: 00516970-00516974 Attributes: backed by code
+Address: 00516970-00516984 Attributes: backed by code
+Address: 00516988-0051698C Attributes: backed by code
+Address: 00516988-005169D8 Attributes: backed by code
+Address: 005169D8-005169DC Attributes: backed by code
+Address: 005169D8-00516A14 Attributes: backed by code
+Address: 00516A14-00516A18 Attributes: backed by code
+Address: 00516A14-00516A50 Attributes: backed by code
+Address: 00516A50-00516A54 Attributes: backed by code
+Address: 00516A50-00516A78 Attributes: backed by code
+Address: 00516A78-00516A7C Attributes: backed by code
+Address: 00516A78-00516ADC Attributes: backed by code
+Address: 00516ADC-00516AE0 Attributes: simple data
+Address: 00516AE0-00516AE4 Attributes: backed by code
+Address: 00516AE0-00516B44 Attributes: backed by code
+Address: 00516B48-00516B4C Attributes: backed by code
+Address: 00516B48-00516BAC Attributes: backed by code
+Address: 00516BAC-00516BB0 Attributes: simple data
+Address: 00516BB0-00516BB4 Attributes: backed by code
+Address: 00516BB0-00516C00 Attributes: backed by code
+Address: 00516C00-00516C04 Attributes: backed by code
+Address: 00516C00-00516C3C Attributes: backed by code
+Address: 00516C3C-00516C40 Attributes: backed by code
+Address: 00516C3C-00516C78 Attributes: backed by code
+Address: 00516C78-00516C7C Attributes: backed by code
+Address: 00516C78-00516D04 Attributes: backed by code
+Address: 00516D08-00516D0C Attributes: backed by code
+Address: 00516D08-00516DBC Attributes: backed by code
+Address: 00516DC0-00516DC4 Attributes: backed by code
+Address: 00516DC0-00516E74 Attributes: backed by code
+Address: 00516E78-00516E7C Attributes: backed by code
+Address: 00516E78-00516F18 Attributes: backed by code
+Address: 00516F18-00516F1C Attributes: backed by code
+Address: 00516F18-00516FA4 Attributes: backed by code
+Address: 00516FA8-00516FAC Attributes: backed by code
+Address: 00516FA8-00517034 Attributes: backed by code
+Address: 00517038-0051703C Attributes: backed by code
+Address: 00517038-005170C4 Attributes: backed by code
+Address: 005170C8-005170CC Attributes: backed by code
+Address: 005170C8-00517154 Attributes: backed by code
+Address: 00517158-0051715C Attributes: backed by code
+Address: 00517158-005171E4 Attributes: backed by code
+Address: 005171E8-005171EC Attributes: backed by code
+Address: 005171E8-00517260 Attributes: backed by code
+Address: 00517260-00517264 Attributes: backed by code
+Address: 00517260-005172EC Attributes: backed by code
+Address: 005172F0-005172F4 Attributes: backed by code
+Address: 005172F0-00517354 Attributes: backed by code
+Address: 00517354-00517358 Attributes: simple data
+Address: 00517358-0051735C Attributes: backed by code
+Address: 00517358-005173D0 Attributes: backed by code
+Address: 005173D0-005173D4 Attributes: backed by code
+Address: 005173D0-00517448 Attributes: backed by code
+Address: 00517448-0051744C Attributes: backed by code
+Address: 00517448-00517470 Attributes: backed by code
+Address: 00517470-00517474 Attributes: backed by code
+Address: 00517470-005174C0 Attributes: backed by code
+Address: 005174C0-005174C4 Attributes: backed by code
+Address: 005174C0-00517560 Attributes: backed by code
+Address: 00517560-00517564 Attributes: backed by code
+Address: 00517560-005175B0 Attributes: backed by code
+Address: 005175B0-005175B4 Attributes: backed by code
+Address: 005175B0-0051763C Attributes: backed by code
+Address: 00517640-00517644 Attributes: backed by code
+Address: 00517640-005176A4 Attributes: backed by code
+Address: 005176A4-005176A8 Attributes: simple data
+Address: 005176A8-005176AC Attributes: backed by code
+Address: 005176A8-005176F8 Attributes: backed by code
+Address: 005176F8-005176FC Attributes: backed by code
+Address: 005176F8-0051770C Attributes: backed by code
+Address: 0051770C-00517710 Attributes: backed by code
+Address: 0051770C-00517748 Attributes: backed by code
+Address: 00517748-0051774C Attributes: backed by code
+Address: 00517748-005177D4 Attributes: backed by code
+Address: 005177D4-005177D8 Attributes: simple data
+Address: 005177D8-005177DC Attributes: backed by code
+Address: 005177D8-00517850 Attributes: backed by code
+Address: 00517850-00517854 Attributes: backed by code
+Address: 00517850-005178DC Attributes: backed by code
+Address: 005178E0-005178E4 Attributes: backed by code
+Address: 005178E0-00517994 Attributes: backed by code
+Address: 00517998-0051799C Attributes: backed by code
+Address: 00517998-00517A4C Attributes: backed by code
+Address: 00517A50-00517A54 Attributes: backed by code
+Address: 00517A50-00517AB4 Attributes: backed by code
+Address: 00517AB8-00517ABC Attributes: backed by code
+Address: 00517AB8-00517B6C Attributes: backed by code
+Address: 00517B70-00517B74 Attributes: backed by code
+Address: 00517B70-00517C10 Attributes: backed by code
+Address: 00517C10-00517C14 Attributes: backed by code
+Address: 00517C10-00517C88 Attributes: backed by code
+Address: 00517C88-00517C8C Attributes: backed by code
+Address: 00517C88-00517D14 Attributes: backed by code
+Address: 00517D14-00517D18 Attributes: simple data
+Address: 00517D18-00517D1C Attributes: backed by code
+Address: 00517D18-00517DA4 Attributes: backed by code
+Address: 00517DA8-00517DAC Attributes: backed by code
+Address: 00517DA8-00517E48 Attributes: backed by code
+Address: 00517E48-00517E4C Attributes: backed by code
+Address: 00517E48-00517EC0 Attributes: backed by code
+Address: 00517EC0-00517EC4 Attributes: backed by code
+Address: 00517EC0-00517F38 Attributes: backed by code
+Address: 00517F38-00517F3C Attributes: backed by code
+Address: 00517F38-00518000 Attributes: backed by code
+Address: 00518000-00518004 Attributes: backed by code
+Address: 00518000-00518014 Attributes: backed by code
+Address: 00518014-00518018 Attributes: backed by code
+Address: 00518014-0051803C Attributes: backed by code
+Address: 0051803C-00518040 Attributes: backed by code
+Address: 0051803C-00518064 Attributes: backed by code
+Address: 00518068-0051806C Attributes: backed by code
+Address: 00518068-00518144 Attributes: backed by code
+Address: 00518148-0051814C Attributes: backed by code
+Address: 00518148-00518238 Attributes: backed by code
+Address: 00518238-0051823C Attributes: backed by code
+Address: 00518238-00518328 Attributes: backed by code
+Address: 00518328-0051832C Attributes: backed by code
+Address: 00518328-0051842C Attributes: backed by code
+Address: 00518430-00518434 Attributes: backed by code
+Address: 00518430-00518480 Attributes: backed by code
+Address: 00518480-00518484 Attributes: backed by code
+Address: 00518480-0051850C Attributes: backed by code
+Address: 00518510-00518514 Attributes: backed by code
+Address: 00518510-00518588 Attributes: backed by code
+Address: 00518588-0051858C Attributes: backed by code
+Address: 00518588-005185D8 Attributes: backed by code
+Address: 005185D8-005185DC Attributes: backed by code
+Address: 005185D8-0051863C Attributes: backed by code
+Address: 00518640-00518644 Attributes: backed by code
+Address: 00518640-005186CC Attributes: backed by code
+Address: 005186D0-005186D4 Attributes: backed by code
+Address: 005186D0-00518748 Attributes: backed by code
+Address: 00518748-0051874C Attributes: backed by code
+Address: 00518748-005187D4 Attributes: backed by code
+Address: 005187D4-005187D8 Attributes: backed by code
+Address: 005187D4-005187E8 Attributes: backed by code
+Address: 005187E8-005193A0 Attributes: backed by code
+Address: 005193A0-00519E50 Attributes: backed by code
+Address: 0051A280-0051A28C Attributes: backed by code
+Address: 0051A28C-0051A298 Attributes: backed by code
+Address: 0051A298-0051A2A4 Attributes: backed by code
+Address: 0051A2A4-0051A2B0 Attributes: backed by code
+Address: 0051A2B0-0051A2BC Attributes: backed by code
+Address: 0051A2BC-0051A2C8 Attributes: backed by code
+Address: 0051A2C8-0051A2D4 Attributes: backed by code
+Address: 0051A2D4-0051A2E0 Attributes: backed by code
+Address: 0051AAB4-0051AAB8 Attributes: backed by code
+Address: 0051AABC-0051AAC4 Attributes: backed by code
+Address: 0051AACC-0051AAD0 Attributes: backed by code
+Address: 0051AAD4-0051AADC Attributes: backed by code
+Address: 0051AAE4-0051AAE8 Attributes: backed by code
+Address: 0051AAEC-0051AAF4 Attributes: backed by code
+Address: 0051AB98-0051AB9C Attributes: backed by code
+Address: 0051ABA0-0051ABA8 Attributes: backed by code
+Address: 0051ABCC-0051ABD0 Attributes: backed by code
+Address: 0051ABD8-0051ABDC Attributes: backed by code
+Address: 0051ABE0-0051ABE8 Attributes: backed by code
+Address: 0051AC14-0051AC18 Attributes: backed by code
+Address: 0051AC1C-0051AC24 Attributes: backed by code
+Address: 0051AC30-0051AC34 Attributes: backed by code
+Address: 0051AC38-0051AC40 Attributes: backed by code
+Address: 0051AC4C-0051AC50 Attributes: backed by code
+Address: 0051AC54-0051AC5C Attributes: backed by code
+Address: 0051AC60-0051AC64 Attributes: backed by code
+Address: 0051AC68-0051AC70 Attributes: backed by code
+Address: 0051AD1C-0051AD20 Attributes: backed by code
+Address: 0051AD24-0051AD2C Attributes: backed by code
+Address: 0051CE70-0051CE8C Attributes: readonly
+Address: 0051CE98-0051CE9C Attributes: simple data
+Address: 0051CEA0-0051CEA4 Attributes: readonly
+Address: 0051CED0-0051DE6C Attributes: readonly
+Address: 0051F2A8-005240B4 Attributes: readonly
+Address: 005240D0-005244B7 Attributes: simple data
+Address: 0052F568-0057D768 Attributes: readonly
+Address: 0057EB68-0057EB6C Attributes: readonly
+Address: 0057EB70-0057EB74 Attributes: readonly
+Address: 0057EEE0-0057F090 Attributes: backed by code
+Address: 0057F0B4-0057F0B5 Attributes: readonly
+Address: 00596A18-00596B17 Attributes: simple data
+Address: 0059723C-0059723D Attributes: simple data
+Address: 005993D4-005993D8 Attributes: backed by code
+Address: 0059CC78-0059CC7C Attributes: simple data
+Address: 0059CC80-0059CC84 Attributes: simple data
+Address: 0059CCA8-006283E8 Attributes: backed by code
+Address: 00628438-0062843C Attributes: backed by code
+Address: 0062843C-00628440 Attributes: backed by code
+Address: 00628444-00628448 Attributes: readonly
+Address: 00628448-0062844C Attributes: readonly
+Address: 00628458-0062845C Attributes: readonly
+Address: 00628470-00628474 Attributes: readonly
+Address: 0062848C-00628490 Attributes: readonly
+Address: 006284A8-006284AC Attributes: readonly
+Address: 006284B8-006284E8 Attributes: readonly
+Address: 006284E8-00628668 Attributes: backed by code
+Address: 00629D98-0063FD28 Attributes: readonly
+Address: 0063FE30-0063FE34 Attributes: readonly
+Address: 0063FE34-0063FE38 Attributes: readonly
+Address: 00640B60-00641672 Attributes: readonly
+Address: 0064DEBC-0064DEC0 Attributes: readonly
+Address: 0064EED8-0064EEDC Attributes: readonly
+Address: 0064EEDC-0064EEE0 Attributes: readonly
+Address: 006509A0-006509A2 Attributes: simple data
+Address: 006509B0-006509B4 Attributes: simple data
+Address: 00654880-00654A80 Attributes: simple data
+Address: 00654AA0-00654AA4 Attributes: simple data
+Address: 006556E4-006556E8 Attributes: simple data
+Address: 006558C0-0065593A Attributes: simple data
+Address: 00655940-006559BA Attributes: simple data
+Address: 006559C0-00655A3A Attributes: simple data
+Address: 00655A40-00655ABA Attributes: simple data
+Address: 00655AC0-00655B3A Attributes: simple data
+Address: 00655B3C-00655B79 Attributes: simple data
+Address: 00655B80-00655BFA Attributes: simple data
+Address: 00655BFC-00655C39 Attributes: simple data
+Address: 00656380-006563D8 Attributes: simple data
+Address: 00656430-00656488 Attributes: simple data
+Address: 00656488-006564B4 Attributes: simple data
+Address: 006564B4-006564E0 Attributes: simple data
+Address: 006564E0-00656562 Attributes: simple data
+Address: 00656568-0065666C Attributes: simple data
+Address: 00656670-006566F2 Attributes: simple data
+Address: 006566F8-0065677A Attributes: simple data
+Address: 00656780-00656884 Attributes: simple data
+Address: 00656888-0065698C Attributes: simple data
+Address: 00656990-00656A12 Attributes: simple data
+Address: 00656A18-00656C20 Attributes: simple data
+Address: 00656C20-00656CA2 Attributes: simple data
+Address: 00656CA8-00656EB0 Attributes: simple data
+Address: 00656EB0-00656FB4 Attributes: simple data
+Address: 00656FB8-0065703A Attributes: simple data
+Address: 00657040-006570C2 Attributes: simple data
+Address: 006570C8-006571CC Attributes: simple data
+Address: 006571D0-00657252 Attributes: simple data
+Address: 00657258-006572DA Attributes: simple data
+Address: 006572E0-006573E4 Attributes: simple data
+Address: 006573E8-0065746A Attributes: simple data
+Address: 00657470-00657678 Attributes: simple data
+Address: 00657678-0065777C Attributes: simple data
+Address: 00657780-00657884 Attributes: simple data
+Address: 00657888-0065790A Attributes: simple data
+Address: 00657910-00657992 Attributes: simple data
+Address: 00657998-00657A9C Attributes: simple data
+Address: 00657A9C-00657A9D Attributes: simple data
+Address: 0065FC18-0065FCFC Attributes: simple data
+Address: 0065FD00-0065FEC8 Attributes: simple data
+Address: 0065FEC8-0065FFAC Attributes: simple data
+Address: 0065FFB0-00660178 Attributes: simple data
+Address: 00660178-0066025C Attributes: simple data
+Address: 00660260-00660428 Attributes: simple data
+Address: 00660428-006605F0 Attributes: simple data
+Address: 006605F0-006606D4 Attributes: simple data
+Address: 006606D8-006607BC Attributes: simple data
+Address: 006607C0-00660988 Attributes: simple data
+Address: 00660988-00660A6C Attributes: simple data
+Address: 00660A70-00660C38 Attributes: simple data
+Address: 00660C38-00660E00 Attributes: simple data
+Address: 00660E00-00660FC8 Attributes: simple data
+Address: 00660FC8-006610AC Attributes: simple data
+Address: 006610B0-00661440 Attributes: simple data
+Address: 00661440-00661514 Attributes: simple data
+Address: 00661518-006616E0 Attributes: simple data
+Address: 006616E0-006617C4 Attributes: simple data
+Address: 006617C8-00661EE8 Attributes: simple data
+Address: 00661EE8-00661FBC Attributes: simple data
+Address: 00661FC0-00662094 Attributes: simple data
+Address: 00662098-0066217C Attributes: simple data
+Address: 00662180-00662264 Attributes: simple data
+Address: 00662268-0066234C Attributes: simple data
+Address: 00662350-006626E0 Attributes: simple data
+Address: 006626E0-00662860 Attributes: simple data
+Address: 00662860-00662BF0 Attributes: simple data
+Address: 00662BF0-00662DB8 Attributes: simple data
+Address: 00662DB8-00662E9C Attributes: simple data
+Address: 00662EA0-00662F84 Attributes: simple data
+Address: 00662F88-00663150 Attributes: simple data
+Address: 00663150-00663234 Attributes: simple data
+Address: 00663238-0066331C Attributes: simple data
+Address: 00663320-00663404 Attributes: simple data
+Address: 00663408-006635D0 Attributes: simple data
+Address: 006635D0-006636B4 Attributes: simple data
+Address: 006636B8-0066379C Attributes: simple data
+Address: 006637A0-00663884 Attributes: simple data
+Address: 00663888-00663A50 Attributes: simple data
+Address: 00663A50-00663B34 Attributes: simple data
+Address: 00663B38-00663C0C Attributes: simple data
+Address: 00663C10-00663CE4 Attributes: simple data
+Address: 00663CE8-00663DCC Attributes: simple data
+Address: 00663DD0-00663EB4 Attributes: simple data
+Address: 00663EB8-00664080 Attributes: simple data
+Address: 00664080-00664410 Attributes: simple data
+Address: 00664410-006644F4 Attributes: simple data
+Address: 006644F8-006645DC Attributes: backed by code
+Address: 006645E0-006646C4 Attributes: simple data
+Address: 006646C8-006647AC Attributes: simple data
+Address: 006647B0-00664894 Attributes: simple data
+Address: 00664898-0066497C Attributes: simple data
+Address: 00664980-00664A40 Attributes: simple data
+Address: 00664B00-00664BBD Attributes: simple data
+Address: 00664BC0-00664C7D Attributes: simple data
+Address: 006654C0-0066557D Attributes: simple data
+Address: 00665580-006656FA Attributes: simple data
+Address: 00665880-0066593D Attributes: simple data
+Address: 00665AC0-00665C43 Attributes: readonly
+Address: 00665C48-00665E4D Attributes: simple data
+Address: 00665E50-00665FD3 Attributes: readonly
+Address: 00665FD8-0066615B Attributes: readonly
+Address: 00666160-0066656A Attributes: backed by code
+Address: 00666778-00667714 Attributes: readonly
+Address: 00667718-00667AFF Attributes: simple data
+Address: 00667B00-00668A9C Attributes: readonly
+Address: 00668AA0-00669A3C Attributes: readonly
+Address: 00669A40-00669E27 Attributes: simple data
+Address: 00669E28-0066A20F Attributes: backed by code
+Address: 0066A210-0066B1AC Attributes: readonly
+Address: 0066B1B0-0066C14C Attributes: readonly
+Address: 0066C150-0066C537 Attributes: simple data
+Address: 0066D4D8-0066D8BF Attributes: simple data
+Address: 0066D8C0-0066E85C Attributes: readonly
+Address: 0066E860-0066EC47 Attributes: simple data
+Address: 0066EC48-0066FBE4 Attributes: backed by code
+Address: 0066FF78-006769B8 Attributes: readonly
+Address: 0068AC74-0068AC75 Attributes: simple data
+Address: 0068C104-0068C108 Attributes: backed by code
+Address: 0068C108-0068C10C Attributes: backed by code
+Address: 0068C144-0068C145 Attributes: simple data
+Address: 0068C14C-0068C14E Attributes: simple data
+Address: 0068C1F0-0068C1F4 Attributes: readonly
+Address: 0068C1F4-0068C1F8 Attributes: backed by code
+Address: 0068C1FC-0068C200 Attributes: backed by code
+Address: 0068C204-0068C208 Attributes: backed by code
+Address: 0068C238-0068C23C Attributes: readonly
+Address: 006BB210-006BB930 Attributes: simple data
+Address: 006C9858-006C9929 Attributes: simple data
+Address: 006C9930-006C9C74 Attributes: simple data
+Address: 006C9C78-006C9E1A Attributes: simple data
+Address: 006C9E20-006C9EF1 Attributes: simple data
+Address: 006C9EF8-006CA23C Attributes: simple data
+Address: 006CA318-006CA4BA Attributes: simple data
+Address: 006CEFF0-006CEFF8 Attributes: readonly
+Address: 006CEFF8-006CF4A8 Attributes: not supported
+Address: 006D0F14-006D0F18 Attributes: simple data
+Address: 006D0F24-006D0F28 Attributes: readonly
+Address: 006D0F30-006D11A9 Attributes: readonly
+Address: 006D1200-006D1204 Attributes: not supported
+Address: 006D5A6C-006D5A70 Attributes: simple data
+Address: 006D5CD8-006D5CDC Attributes: backed by code
+Address: 1505E670-1505EA70 Attributes: readonly
+Address: 19046138-1904613C Attributes: simple data
+Address: 1904613C-19046140 Attributes: simple data
